@@ -1,0 +1,25 @@
+html, body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial;
+}
+
+.container {
+
+    width: 360px;
+}
+
+#inputFiled {
+    width: 70%;
+    height: 46px;
+    font-size: 25px;
+}
+
+#addTodo {
+    width: 20;
+    background-color: cornflowerblue;
+}
+
+.to-dos {
+    margin-top:25px;
+}
